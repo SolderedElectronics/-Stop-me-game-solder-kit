@@ -12,13 +12,13 @@ This repo is divided into two parts: Eagle Files and Firmware. Eagle Files folde
 
 # Instructions on soldering
 
-	1. Insert the 8 pin IC socket into IC. Flip the board over, then solder into place.
-	2. Insert the switch and pushbutton into S1 and S2. Flip the board over and solder into place.
-	3. Insert 7 LEDs into LED1, LED2, LED2, LED3, LED4, LED5, LED6. Each LED has a short leg and a long leg. The long leg goes into the hole closest to the "+" sign on the board. NOTE: The green LED goes into LED4 place. Flip the board over, then solder into place.
-	4. Flip the board over. Put CR2032 battery holder into BAT place. Don't put battery in holder just yet. Flip the board over again and solder into place. The battery holder is only piece which is soldered on the back side of PCB.
-	5. Insert Attiny13 microcontroller into 8 pin IC socket. Make sure the dot in the corner of the chip is on bottom left corner.
-	6. Insert CR2032 battery into soldered battery holder.
-	7. Yay you're done! Flip the switch to the ON position and the game should start. Have Fun playing it. 
+1. Insert the 8 pin IC socket into IC. Flip the board over, then solder into place.
+2. Insert the switch and pushbutton into S1 and S2. Flip the board over and solder into place.
+3. Insert 7 LEDs into LED1, LED2, LED2, LED3, LED4, LED5, LED6. Each LED has a short leg and a long leg. The long leg goes into the hole closest to the "+" sign on the board. NOTE: The green LED goes into LED4 place. Flip the board over, then solder into place.
+4. Flip the board over. Put CR2032 battery holder into BAT place. Don't put battery in holder just yet. Flip the board over again and solder into place. The battery holder is only piece which is soldered on the back side of PCB.
+5. Insert Attiny13 microcontroller into 8 pin IC socket. Make sure the dot in the corner of the chip is on bottom left corner.
+6. Insert CR2032 battery into soldered battery holder.
+7. Yay you're done! Flip the switch to the ON position and the game should start. Have Fun playing it. 
 
 # Board versions
 - v1.0 - initial version
